@@ -2,10 +2,10 @@
 # Project 6 - BeReal Pt.2
 
 <div>
-    <a href="https://www.loom.com/share/e449bd69902749bbae7d76ba785301ec">
+    <a href="https://www.loom.com/share/df53e4556bcd43139ff2d5935f9b7bfa">
     </a>
-    <a href="https://www.loom.com/share/e449bd69902749bbae7d76ba785301ec">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e449bd69902749bbae7d76ba785301ec-with-play.gif">
+    <a href="https://www.loom.com/share/df53e4556bcd43139ff2d5935f9b7bfa">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/df53e4556bcd43139ff2d5935f9b7bfa-with-play.gif">
     </a>
   </div>
 
